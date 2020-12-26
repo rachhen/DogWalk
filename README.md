@@ -15,6 +15,7 @@ This app gathers dog owners and users who are looking for job.
 ```
 git clone https://github.com/rachhen/DogWalk.git
 cd DogWalk
+yarn
 
 # Run on ios
 npm run ios
