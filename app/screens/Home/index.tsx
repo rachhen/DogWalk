@@ -14,7 +14,7 @@ const Home: FC<HomeProps> = ({navigation}) => {
       backgroundColor="card"
       edges={['left', 'right', 'top']}>
       <HomeHeader
-        title="Kastanienallee, Berlin"
+        title="Siem Reap, Cambodia"
         num={2}
         onFilterPress={() => {}}
       />
